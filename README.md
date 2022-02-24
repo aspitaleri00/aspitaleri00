@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aspitaleri00 / HoLa ! Soy Agustin Spitaleri
 - 👀 Apasionado de la programacion informatica y su potencial tecnologico
 - 🌱 Javascript 
-- 💞️ Busco aprender y porque no colaborar con proyectos !
+- 💞️ Busco aprender y  colaborar con proyectos !
 - 📫 How to reach me ...
 
 <!---
